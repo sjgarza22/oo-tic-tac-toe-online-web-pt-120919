@@ -21,5 +21,14 @@ class TicTacToe
 
   end
 
+  def self.position_taken?(index)
+
+  end
+
+  def self.valid_move?(position)
+
+  end
+
+
 
 end
